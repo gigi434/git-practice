@@ -1,2 +1,3 @@
 プロジェクトの説明
 new-featurebranchにて編集実施
+fast-forwardで編集
